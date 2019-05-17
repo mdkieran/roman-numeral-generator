@@ -26,7 +26,7 @@ Whilst working on this project, I documented the steps that I took in order to c
 6. Eventually, I passed the test, and as I understood the problem deeper, I updated my test to ensure I was testing all "kinds" of inputs.
 7. Next, I tried to refactor and optimize the code, whilst still passing the test. During this time I had a eureka moment and found a different way to solve the problem, and in doing so drastically simplified the logic.
 8. I then was curious to see how much more efficient the new way was to the old way, so I wrote a crude benchmark to compare.
-9. Finally I tidied everything up, added missing DocBlocks comments, and ensured indentation, code formatting, etc was all correct.
+9. Finally I tidied everything up, added missing DocBlocks comments, and ensured indentation, code formatting, and line-endings, etc were all correct.
 
 ## Testing
 
