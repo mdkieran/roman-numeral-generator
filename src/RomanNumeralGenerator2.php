@@ -30,7 +30,7 @@ class RomanNumeralGenerator2 implements RomanNumeralGeneratorInterface
     ];
 
     /**
-     * Convert an integer to roman numerals.
+     * Convert the given integer into roman numerals.
      *
      * @param  int  $number
      * @return string
